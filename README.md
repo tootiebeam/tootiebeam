@@ -1,4 +1,4 @@
-https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F{tootiebeam}%2F{project}.json%3Fcolor%3Dorange
+https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F{tootiebeam}%2F{project}.json%3Fcolor%3Dpink
   
 
 <!--
