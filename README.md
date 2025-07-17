@@ -1,3 +1,2 @@
 my [pronounspage](https://en.pronouns.page/@wanderyonder)
-<img width="480" height="298" alt="image" src="https://github.com/user-attachments/assets/07b87858-339e-49d4-9033-238af6bef1a6" />
-
+<img width="498" height="362" alt="image" src="https://github.com/user-attachments/assets/57d64c11-7061-4f2d-a6ad-e01ba2790d4c" />
